@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Alexia</h1>
-<h3 align="center">I study Computer Science at Aristotle University of Thessaloniki.</h3>
+<h3 align="center">I have graduated with a BSc in Computer Science from Aristotle University of Thessaloniki.</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexia-nt&show_icons=true&locale=en&layout=compact" alt="alexia-nt" /></p>
 
