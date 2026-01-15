@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Alexia</h1>
-<h3 align="center">I am doing a Master's in AI at Utrecht University</h3>
+<h3 align="center">AI Master's student at Utrecht University</h3>
 
-<p>I have graduated with a BSc in Computer Science from Aristotle University of Thessaloniki.</p>
+<p>I have graduated with a Bachelor's in Computer Science from Aristotle University of Thessaloniki and I am currently doing a Master's in AI at Utrecht University.</p>
